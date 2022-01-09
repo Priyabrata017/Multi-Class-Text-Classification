@@ -23,4 +23,6 @@ Copy the URL and paste in the browser
 
 Then type the text you want to predict and hit the predict button
 <img src="https://github.com/Priyabrata017/Multi-Class-Text-Classification/blob/master/images/input.PNG" alt="cmd">
+
+The output will be displayed as
 <img src="https://github.com/Priyabrata017/Multi-Class-Text-Classification/blob/master/images/output.PNG" alt="cmd">
