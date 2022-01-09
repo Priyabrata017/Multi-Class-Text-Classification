@@ -21,3 +21,6 @@ pip install -r requirements.txt
 Copy the URL and paste in the browser
 <img src="https://github.com/Priyabrata017/Multi-Class-Text-Classification/blob/master/images/cmd.PNG" alt="cmd">
 
+Then type the text you want to predict and hit the predict button
+<img src="https://github.com/Priyabrata017/Multi-Class-Text-Classification/blob/master/images/input.PNG" alt="cmd">
+<img src="https://github.com/Priyabrata017/Multi-Class-Text-Classification/blob/master/images/output.PNG" alt="cmd">
