@@ -19,5 +19,5 @@ pip install -r requirements.txt
 ```
 ### Step 3. Then type python main.py 
 Copy the URL and paste in the browser
-![Front](images/cmd.png)
+<img src="https://github.com/Priyabrata017/Multi-Class-Text-Classification/blob/master/images/cmd.PNG" alt="cmd">
 
