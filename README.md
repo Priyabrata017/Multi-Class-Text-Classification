@@ -18,3 +18,6 @@ git checkout master
 pip install -r requirements.txt
 ```
 ### Step 3. Then type python main.py 
+Copy the URL and paste in the browser
+![Front](images/cmd.png)
+
